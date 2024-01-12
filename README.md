@@ -1,1 +1,2 @@
-problems in Leetcode
+#LeetCode
+record solving problems of LeetCode
